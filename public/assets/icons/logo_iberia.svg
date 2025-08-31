@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="40px" viewBox="0 0 52 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>logo_iberia</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.22775264%" y1="3.63240533%" x2="99.1578257%" y2="102.498351%" id="linearGradient-1">
+            <stop stop-color="#ED7417" offset="0%"></stop>
+            <stop stop-color="#FACD08" offset="85%"></stop>
+            <stop stop-color="#FACD08" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="NO-APIS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02A-ancilliaries_1280" transform="translate(-451.000000, -24.000000)">
+            <g id="menu_flujo" transform="translate(0.000000, -1.000000)">
+                <g id="logo_iberia" transform="translate(451.000000, 25.000000)">
+                    <g id="Group-3">
+                        <path d="M9.28788153,20.8482207 L0,11.001303 L0,11 C32.2402502,11 39.8410048,18.9614486 44.2759155,29.798661 L44.2759155,29.798661 L48,40 C37.1378802,39.6716391 20.7466984,32.9467559 9.28788153,20.8482207" id="path92" fill="url(#linearGradient-1)" transform="translate(24.000000, 25.500000) scale(1, -1) translate(-24.000000, -25.500000) "></path>
+                        <path d="M32.4479638,9.56993007 L23,0 C31.9701822,6.44313234 40.9156901,10.3303206 49.8275515,11.334081 L49.8275515,11.334081 L52,17 C38.8071702,17 37.010442,14.1154506 32.4479638,9.56993007" id="path114" fill="#FFFFFF" transform="translate(37.500000, 8.500000) scale(1, -1) translate(-37.500000, -8.500000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

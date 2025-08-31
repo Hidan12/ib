@@ -1,0 +1,22 @@
+.swiper-pagination-bullet {
+    opacity: 0.4;
+    width: 8px;
+    height: 8px;
+    border-radius: 9999px;
+    transition: opacity 0.3s;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: #e8114b;
+    opacity: 1;
+    width: 13px;
+    height: 13px;
+}
+
+.clip-left {
+  clip-path: polygon(0 0, 100% 0, 90% 99%, 0% 100%);
+}
+
+.clip-right {
+  clip-path: polygon(9% 0, 100% 0, 95% 100%, 0 100%);
+}

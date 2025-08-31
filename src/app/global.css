@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+html, body {
+  font-family: Verdana, sans-serif;
+}
+
+@font-face {
+  font-family: "iberiaheadline";
+  src: url("/font/iberiaheadline.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.pincho {
+    position: relative;
+}
+
+.pincho::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #d7192d;
+}
+
+.pincho-texto::before {
+    content: '966';
+    position: absolute;
+    top: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #d7192d;
+    color: white;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: bold;
+}

@@ -1,0 +1,15 @@
+@media (max-width: 370px) {
+  .rdp {
+    --rdp-day_button-height: 38px;
+    --rdp-day_button-width: 38px;
+  }
+  
+}
+
+.rdp-chevron{
+  fill: #d7192d !important;
+}
+
+.rdp-day_button{
+    font-weight: bold  !important;
+}
